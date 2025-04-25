@@ -13,7 +13,7 @@ rc('font', family=font)
 
 #plt.figure(figsize=(12,8))
 
-money = pd.read_csv("c:\\data\\money_data7.csv")
+money = pd.read_csv("money_data7.csv")
 
 # 년도 선택 박스 넣기
 import streamlit as st
